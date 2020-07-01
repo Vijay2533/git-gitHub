@@ -1,0 +1,7 @@
+harbor.ciphercloud.in/casb/obs-usergroup-svc
+harbor.ciphercloud.in/casb/obs-usergroup-svc
+harbor.ciphercloud.in/casb/obs-usergroup-svc
+
+harbor.ciphercloud.in/casb/obs-usergroup-svc
+harbor.ciphercloud.in/casb/obs-usergroup-svc
+harbor.ciphercloud.in/casb/obs-usergroup-svc
